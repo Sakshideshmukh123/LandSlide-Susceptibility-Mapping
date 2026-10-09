@@ -1,0 +1,1 @@
+# LandSlide-Susceptibility-Mapping
